@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ASM
+comment1.params=
+comment1.target=void\ test()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=fn\ tf\ full
+comment3.target=void\ run(java.lang.String,\ java.lang.String,\ boolean)
+comment4.params=s
+comment4.target=int\ loadNum(java.lang.String)
+comment5.params=l
+comment5.target=java.lang.String\ getIndexing(java.lang.String)
+comment6.params=s
+comment6.target=void\ error(java.lang.String)
+numComments=7

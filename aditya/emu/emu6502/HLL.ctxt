@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=HLL
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=t
+comment10.target=HLL.HLLType\ getType(java.lang.String)
+comment11.params=s
+comment11.target=int\ checkPriority(java.lang.String)
+comment12.params=
+comment12.target=void\ test()
+comment2.params=
+comment2.target=void\ run()
+comment3.params=s
+comment3.target=void\ error(java.lang.String)
+comment4.params=s\ ve
+comment4.target=void\ declareExp(java.lang.String,\ java.lang.String)
+comment5.params=s
+comment5.target=java.lang.String[]\ splitExp(java.lang.String)
+comment6.params=exp
+comment6.target=int[]\ priorityExp(java.lang.String[])
+comment7.params=c
+comment7.target=boolean\ isSpecial(char)
+comment8.params=s
+comment8.target=java.lang.String\ format(java.lang.String)
+comment9.params=name
+comment9.target=HLL.HLLVar\ getVar(java.lang.String)
+numComments=13

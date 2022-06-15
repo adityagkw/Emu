@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Token
+comment1.params=c
+comment1.target=int\ getCharType(char)
+comment2.params=op
+comment2.target=int\ priority(java.lang.String)
+comment3.params=token
+comment3.target=boolean\ isOperator(java.lang.String)
+numComments=4

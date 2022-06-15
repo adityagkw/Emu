@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=RAM6502
+comment1.params=start\ end
+comment1.target=RAM6502(int,\ int)
+comment2.params=
+comment2.target=RAM6502()
+comment3.params=
+comment3.target=void\ update()
+comment4.params=data\ offset
+comment4.target=void\ store(byte[],\ int)
+comment5.params=data\ offset
+comment5.target=void\ storeHex(java.lang.String,\ int)
+comment6.params=fn\ offset
+comment6.target=java.lang.String\ storeFile(java.lang.String,\ int)
+comment7.params=fn\ offset
+comment7.target=java.lang.String\ storeFileBin(java.lang.String,\ int)
+comment8.params=fn\ offset
+comment8.target=java.lang.String\ storeFileHex(java.lang.String,\ int)
+numComments=9

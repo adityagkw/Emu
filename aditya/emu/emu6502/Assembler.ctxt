@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Assembler
+comment1.params=fn\ ofn
+comment1.target=void\ open(java.lang.String,\ java.lang.String)
+comment10.params=ofn
+comment10.target=void\ save(java.lang.String)
+comment11.params=args
+comment11.target=void\ main(java.lang.String[])
+comment2.params=operands\ mode
+comment2.target=boolean\ isAddressingMode(java.lang.String[],\ java.lang.String)
+comment3.params=operand
+comment3.target=int\ getNumeric(java.lang.String)
+comment4.params=operand
+comment4.target=byte[]\ getMultipleNumeric(java.lang.String)
+comment5.params=mode
+comment5.target=int\ getAddressingModeSize(java.lang.String)
+comment6.params=opcode\ operands\ mode
+comment6.target=void\ insertInstruction(int,\ java.lang.String[],\ java.lang.String)
+comment7.params=code\ ofn
+comment7.target=void\ assemble(java.lang.String,\ java.lang.String)
+comment8.params=lines
+comment8.target=void\ firstPass(java.lang.String[])
+comment9.params=lines
+comment9.target=void\ secondPass(java.lang.String[])
+numComments=12

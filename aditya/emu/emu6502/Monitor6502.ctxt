@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Monitor6502
+comment1.params=
+comment1.target=Monitor6502()
+comment2.params=
+comment2.target=void\ reset()
+comment3.params=
+comment3.target=void\ update()
+comment4.params=c
+comment4.target=int\ getRGB(byte)
+comment5.params=
+comment5.target=void\ load()
+comment5.text=public\ byte\ getC(int\ c)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ byte\ col\=0;\r\n\ \ \ \ \ \ \ \ int\ b\=c&0xff;\r\n\ \ \ \ \ \ \ \ int\ g\=(c>>8)&0xff;\r\n\ \ \ \ \ \ \ \ int\ r\=(c>>16)&0xff;\r\n\ \ \ \ \ \ \ \ for\ (int\ i\=0;i<color.length;i++)\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ if\ (Math.abs(r-color[i][0])<10\ &&\ Math.abs(g-color[i][1])<10\ &&\ Math.abs(b-color[i][2])<10)\r\n\ \ \ \ \ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ col\=(byte)i;\r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ break;\r\n\ \ \ \ \ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ return\ col;\r\n}
+comment6.params=x\ y\ tc\ tb
+comment6.target=void\ loadCharacter(int,\ int,\ byte,\ byte)
+comment7.params=width\ height
+comment7.target=void\ render(int,\ int)
+numComments=8

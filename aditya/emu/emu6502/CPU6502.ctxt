@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=CPU6502
+comment1.params=
+comment1.target=void\ update()
+comment10.params=
+comment10.target=void\ setStatus()
+comment11.params=
+comment11.target=void\ getStatus()
+comment2.params=
+comment2.target=void\ reset()
+comment3.params=
+comment3.target=void\ interrupt()
+comment4.params=
+comment4.target=void\ unmaskableInterrupt()
+comment5.params=
+comment5.target=void\ returnFromInterrupt()
+comment6.params=mode
+comment6.target=void\ addressMode(java.lang.String)
+comment7.params=
+comment7.target=void\ runOpcode()
+comment8.params=address
+comment8.target=byte\ readInstruction(int)
+comment9.params=address\ data
+comment9.target=void\ writeInstruction(int,\ byte)
+numComments=12
